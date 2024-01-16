@@ -2,7 +2,7 @@ import React from 'react'
 import { useDispatch, useSelector } from "react-redux";
 import { Logoutreq } from "../Redux/AuthRedux/action";
 import Radhalogo from ".././withoutbg-removebg-preview.png"
-import Banner from "./banner.gif"
+// import Banner from "./banner.gif"
 import "./Navbar.css"
 import { useNavigate } from "react-router-dom";
 import CartButton from './Cartbutton';
